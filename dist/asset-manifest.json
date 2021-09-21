@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e72d0c98.chunk.css",
+    "main.js": "/static/js/main.7f9d1dce.chunk.js",
+    "main.js.map": "/static/js/main.7f9d1dce.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1b9abcd4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1b9abcd4.js.map",
+    "static/js/2.4d5ca5e8.chunk.js": "/static/js/2.4d5ca5e8.chunk.js",
+    "static/js/2.4d5ca5e8.chunk.js.map": "/static/js/2.4d5ca5e8.chunk.js.map",
+    "static/js/3.eff4f7a9.chunk.js": "/static/js/3.eff4f7a9.chunk.js",
+    "static/js/3.eff4f7a9.chunk.js.map": "/static/js/3.eff4f7a9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e72d0c98.chunk.css.map": "/static/css/main.e72d0c98.chunk.css.map",
+    "static/js/2.4d5ca5e8.chunk.js.LICENSE.txt": "/static/js/2.4d5ca5e8.chunk.js.LICENSE.txt",
+    "static/media/Header.css": "/static/media/Dinner.6087c103.webp",
+    "static/media/Feat1.4c56b0cb.webp": "/static/media/Feat1.4c56b0cb.webp",
+    "static/media/Feat2.cdfa9d3d.webp": "/static/media/Feat2.cdfa9d3d.webp",
+    "static/media/Feat3.a197e12f.webp": "/static/media/Feat3.a197e12f.webp",
+    "static/media/Logo.a51e41c1.webp": "/static/media/Logo.a51e41c1.webp",
+    "static/media/Swiggy-logo.d9748d57.png": "/static/media/Swiggy-logo.d9748d57.png",
+    "static/media/iOS.1cf19677.webp": "/static/media/iOS.1cf19677.webp",
+    "static/media/iPhone.52898333.webp": "/static/media/iPhone.52898333.webp",
+    "static/media/login.3a527b61.webp": "/static/media/login.3a527b61.webp",
+    "static/media/pixel.4607122b.webp": "/static/media/pixel.4607122b.webp",
+    "static/media/play.678a96e6.webp": "/static/media/play.678a96e6.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b9abcd4.js",
+    "static/js/2.4d5ca5e8.chunk.js",
+    "static/css/main.e72d0c98.chunk.css",
+    "static/js/main.7f9d1dce.chunk.js"
+  ]
+}
