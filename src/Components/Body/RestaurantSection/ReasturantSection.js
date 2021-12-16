@@ -1,8 +1,9 @@
 import React from "react";
 import Play from "../../UI/Play";
-import "./ReasturantSection.css";
 import Android from "./pixel.webp";
 import iPhone from "./iPhone.webp";
+import "./ReasturantSection.css";
+
 const ReasturantSection = () => {
   return (
     <div className="rs">

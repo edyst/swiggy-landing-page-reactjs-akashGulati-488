@@ -6,13 +6,16 @@
     font-size: larger;
 
 }
-.city::placeholder{
-    color:#a1a3b1;  
-}
+
 .city:focus{
     border: 1px solid #FC8019;
     outline: 1px solid #FC8019;
 }
+
+.city::placeholder{
+    color:#a1a3b1;  
+}
+
 .btn1{
     margin-left :-270px;
     margin-top: 50px;
@@ -21,6 +24,7 @@
     background-color: #fff;
     color: #686b78;
 }
+
 .btn2{
     margin-left :9px;
     margin-top: 15px;
@@ -28,12 +32,14 @@
     width: 140px;
     background-color: #FC8019;
 }
+
 .btn1:hover{
     background-color: #d2d3da;
 }
+
 @media only screen and (max-width: 1200px) {
     .city::placeholder{
         color: #fff;
     }
     
-  }
+}

@@ -1,8 +1,9 @@
 import React from "react";
-import "./SignUp.css";
 import Button from "../UI/Button";
 import IMG from "./login.webp";
+import "./SignUp.css";
 import { useState } from "react";
+
 const Login = (props) => {
   const [ref, setRef] = useState(false);
   let df = "#";

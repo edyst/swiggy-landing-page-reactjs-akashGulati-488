@@ -1,7 +1,8 @@
 import React from "react";
 import "./Login.css";
-import Button from "../UI/Button";
 import IMG from "./login.webp";
+import Button from "../UI/Button";
+
 const Login = (props) => {
   let df = "#";
   return (

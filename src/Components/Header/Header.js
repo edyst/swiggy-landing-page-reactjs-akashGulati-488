@@ -1,15 +1,15 @@
 import React from "react";
 import Swiggy from "./Swiggy-logo.png";
 import "./Header.css";
-import Dinner from "./Dinner.webp";
-import Button from "../UI/Button";
-import DynamicText from "./DynamicText";
-import Input from "./Input";
-import PopCity from "./PopCity";
 import Login from "../Overlays/Login";
 import { useState } from "react";
 import SignUp from "../Overlays/SignUp";
-// import { Transition } from 'react-transition-group';
+import Dinner from "./Dinner.webp";
+import Input from "./Input";
+import Button from "../UI/Button";
+import DynamicText from "./DynamicText";
+import PopCity from "./PopCity";
+
 const Header = () => {
   const [login, setLogin] = useState(false);
   const [signUp, setSignUp] = useState(false);

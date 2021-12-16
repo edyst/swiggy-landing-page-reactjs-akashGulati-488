@@ -1,11 +1,12 @@
 import React from "react";
-import Play from "../UI/Play";
 import "./Footer.css";
+import Play from "../UI/Play";
 import List1 from "./List1";
 import List2 from "./List2";
 import List3 from "./List3";
 import List4 from "./List4";
 import Swiggy from "./Logo.webp";
+
 const Footer = () => {
   let ccc = "#";
   return (

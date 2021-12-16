@@ -1,6 +1,7 @@
 import React from "react";
 import Button from "../UI/Button";
 import "./Input.css";
+
 const Input = () => {
   return (
     <div className="input">

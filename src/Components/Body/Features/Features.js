@@ -4,6 +4,8 @@ import Feat1 from "./Feat1.webp";
 import Feat2 from "./Feat2.webp";
 import Feat3 from "./Feat3.webp";
 import "./Features.css";
+
+
 const Features = () => {
   return (
     <div className="features">

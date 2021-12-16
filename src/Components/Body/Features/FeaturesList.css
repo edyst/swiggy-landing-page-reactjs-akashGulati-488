@@ -7,12 +7,13 @@
   /* height: 30%; */
 }
 
+.title {
+  margin-top: 10%;
+  margin-bottom: 5%;
+font-weight: bolder;
+}
+
 .img {
   height: 50%;
   /* width: 60%; */
-}
-.title {
-    margin-top: 10%;
-    margin-bottom: 5%;
-  font-weight: bolder;
 }

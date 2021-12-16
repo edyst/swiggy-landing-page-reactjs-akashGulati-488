@@ -2,37 +2,31 @@
   position: absolute;
   display: flex;
   width: 100%;
-  /* transition: all 5s; */
-
-  /* top: 50%;
-    left: 50%;
-    font-size: larger; */
-  /* font-weight: 900; */
 }
+
 .content {
   position: fixed;
+  width: 37%;
+  height: 100vh;
   top: 0;
   right: 0;
   background-color: #fff;
-  width: 37%;
-  height: 100vh;
 }
+
 .backdrop {
   position: fixed;
+  background: rgba(0, 0, 0, 0.75);
   top: 0;
   left: 0;
   width: 63%;
   height: 100vh;
   z-index: 10;
-  background: rgba(0, 0, 0, 0.75);
 }
 
 .s {
   font-size: 30px;
   font-weight: lighter;
   cursor: pointer;
-
-  /* margin-top: 10%; */
 }
 .center {
   margin: 5%;
